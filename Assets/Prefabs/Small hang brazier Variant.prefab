@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7928167027270292828
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1482393643044077457, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_Range
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1482393643044077457, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_Intensity
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 23.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 23.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 23.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 56.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3582328168578600778, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4250602903220295152, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
+      propertyPath: m_Name
+      value: Small hang brazier Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb606c0b96d03a448a35f72a2b345a9c, type: 3}
